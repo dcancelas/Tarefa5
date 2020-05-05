@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author DANIE
+ * @author dcancelas
  */
 public class Ventana extends javax.swing.JFrame {
 
